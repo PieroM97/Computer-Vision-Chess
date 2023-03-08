@@ -1,0 +1,3 @@
+0 Casa vuota
+1 Pezzo scuro
+2 Pezzo chiaro
